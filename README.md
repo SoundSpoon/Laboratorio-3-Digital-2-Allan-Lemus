@@ -1,2 +1,3 @@
 # Laboratorio-3-Digital-2-Allan-Lemus
-En este repositorio se puede observar el código y la descripción del código para poder utilizarlo correctamente
+En este repositorio se puede observar el código y la descripción del código para poder utilizarlo correctamente, está adjunto el código para el cual se necesita las librerías de arduino y de stnd.int los cuales se utilizan como base del código completo.
+El roposito del código es tener un contador manual en binario y otro controlado por un timer los cuales cuando llegan al mismo número prende un buzzer (Que no suena mucho) y reinicia el timer mientras que se cuenta con un cable suelto (Debido a la falta de pantallas touch) el cual al momento de tocarlo también prende el buzzer y reinicia el contador del automático
